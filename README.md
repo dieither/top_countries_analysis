@@ -1,5 +1,5 @@
 # Top Countries Email & Account Analysis
-![Picture](top 10 countries by accounts.png)
+![Picture](top_10_countries_by_accounts.png)
 An analytical breakdown of global account creation and email interaction activity, identifying the top 10 countries by volume and engagement metrics.
 
 ## Project Overview
